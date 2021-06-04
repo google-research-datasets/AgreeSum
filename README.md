@@ -23,7 +23,7 @@ For more details on how the dataset is constructed, please refer to our paper.
 ## Important Notes
 - The summaries provided in the test set are *not* gold summaries, as test set
   articles are not guaranteed to entail the summary. However, these summaries
-  may be used as a proxy to measure summarizaiton informativeness.
+  may be used as a proxy to measure summarization informativeness.
 - The dev set is sampled from the training set, which comes from WCEP summaries
   before August 2019, while the test set is from August 2019 to August 2020.
 - Entailment labels have four possible values: 1 (entails), 0 (not entails), -1
