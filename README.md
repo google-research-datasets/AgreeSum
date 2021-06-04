@@ -2,13 +2,14 @@
 
 This repository contains the raw dataset used for the agreement-oriented
 multi-doc summarization (AgreeSum) task from ["AgreeSum: Agreement-Oriented
-Multi-Document Summarization"]() to appear in the Findings of ACL 2021.
+Multi-Document Summarization"]() to appear in the Findings of the ACL:
+ACL-IJCNLP 2021.
 
 The dataset consists of summaries from Wikipedia Current Events Portal (WCEP),
 along with associated news article URLs (up to four) and whether or not the
 summary entails the main passage of each news article. Entailment here is
 defined as "Does the article contain all the information presented in the
-summary?". The dataset consists of 18K cluster-summary pairs, coming from
+summary?" The dataset consists of 18K cluster-summary pairs, coming from
 5.5K WCEP summaries. 1K cluster-summary pairs are annotated, which corresponds
 to ~8K article-summary entailment annotations.
 
@@ -35,7 +36,7 @@ If you use or discuss this dataset in your work, please cite our paper:
 @InProceedings{agreesum2021,
   title = {{AgreeSum: Agreement-Oriented Multi-Document Summarization}},
   author = {Richard Yuanzhe Pang, Adam D. Lelkes, Vinh Q. Tran and Cong Yu},
-  booktitle = {Findings of the Association for Computational Linguistics 2021}
+  booktitle = {Findings of the ACL: ACL-IJCNLP 2021},
   year = {2021}
 }
 ```
