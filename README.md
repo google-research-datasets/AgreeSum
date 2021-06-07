@@ -2,7 +2,7 @@
 
 This repository contains the raw dataset used for the agreement-oriented
 multi-doc summarization (AgreeSum) task from ["AgreeSum: Agreement-Oriented
-Multi-Document Summarization"]() to appear in the Findings of the ACL:
+Multi-Document Summarization"](https://arxiv.org/abs/2106.02278) to appear in the Findings of the ACL:
 ACL-IJCNLP 2021.
 
 The dataset consists of summaries from Wikipedia Current Events Portal (WCEP),
